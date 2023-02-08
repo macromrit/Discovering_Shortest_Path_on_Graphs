@@ -1,10 +1,11 @@
 # Discovering_Shortest_Path_on_Graphs
 Discovering shortest pathways between orgin vertex and other vertices in a graph 
 <br>
-Algorithms Used ->
 <br>
-Dijkstras Algorithm
+Algorithms Used:
 <br>
-Caesar Cipher Algorithm
+    Dijkstras Algorithm
+<br>
+    Caesar Cipher Algorithm
 <br><br>
 A referral PPT has been attached [TBH its my sem1 project on discrete mathematics]
