@@ -6,6 +6,6 @@ Algorithms Used:
 <br>
     Dijkstras Algorithm
 <br>
-    Caesar Cipher Algorithm
+    Bellman Ford's Algorithm
 <br><br>
 A referral PPT has been attached [TBH its my sem1 project on discrete mathematics]
